@@ -33,12 +33,20 @@ html {
   display: none;
 }
 
+.parallax {
+  background-image: url(../src/assets/bg-texture.png);
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/bg-texture.png);
 }
 
 /* ----------------------- GENERAL STYLES ---------------------------*/
@@ -62,6 +70,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
