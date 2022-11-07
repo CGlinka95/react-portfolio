@@ -40,10 +40,6 @@ header {
 
 /* ---------------------- PROFILE IMG ----------------------- */
 
-img {
-  border-radius: 0 0 12rem 12rem;
-}
-
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
