@@ -45,7 +45,7 @@
 }
 
 .about__card:hover {
-  background: transparent;
+  background-color: var(--color-bg);
   border-color: var(--color-primary-variant);
   cursor: default;
 }
@@ -66,8 +66,17 @@
 }
 
 .about__content p {
+  background: var(--color-bg);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  border: 2px solid var(--color-primary-variant);
   margin: 2rem 0 2.6rem;
-  color: var(--color-light);
+  color: var(--white);
+  transition: var(--transition);
+}
+
+.about__content p:hover {
+  background-color: var(--color-bg-variant);
 }
 
 /* ---------------------- MEDIA QUERIES (MEDIUM) --------------------- */

@@ -14,7 +14,7 @@
 
 .portfolio__item:hover {
   border-color: var(--color-primary-variant);
-  background: transparent;
+  background-color: var(--color-bg);
 }
 
 .portfolio__item-image {

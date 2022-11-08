@@ -26,8 +26,10 @@ const About = () => {
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>.....................</small>
+              <h5>Employment</h5>
+              <small>Director of Education at Code Ninjas</small>
+              <br />
+              <small>October 2021 - Present</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -35,7 +37,7 @@ const About = () => {
               <small>10+ Completed Projects</small>
             </article>
           </div>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nisi similique necessitatibus recusandae rerum adipisci vel doloremque, voluptatem aspernatur quasi quo dicta incidunt, officia ipsum sit assumenda esse tempora! Est!</p>
+          <p>An aspiring and enthusiastic Fullstack Developer with 3 years of technical education at NAIT’s DMIT program. A natural team player that can also flourish in a team leadership role. Known for his charisma, reliability, flexibility, adaptability, consistency, and ability to effectively delegate tasks and problem-solve on the spot.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
