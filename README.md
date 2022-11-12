@@ -20,11 +20,3 @@ Run 'npm install' in the root of the folder to install all dependancies and then
 ### IPhone
 
 - Background image not rendering properly
-
-### Google Pixel
-
-- Business email not populating recipient field when clicking on 'Send Message'
-
-### Multiple ViewPorts
-
-- Header logo getting cut off on the lower half
