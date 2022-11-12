@@ -1,7 +1,6 @@
 header {
   height: 100vh;
   padding-top: 7rem;
-  overflow: hidden;
 }
 
 .header__container {
@@ -78,6 +77,8 @@ header {
 @media screen and (max-width: 600px) {
   header {
     height: 100vh;
+    overflow: visible;
+    margin-bottom: 8rem;
   }
 
   .header__socials,
