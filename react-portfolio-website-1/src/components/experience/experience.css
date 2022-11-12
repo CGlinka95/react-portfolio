@@ -5,16 +5,16 @@
 }
 
 .experience__container > div {
-  background: var(--color-bg-variant);
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
   padding: 2.4rem 5rem;
   border-radius: 2rem;
-  border: 1px solid transparent;
   transition: var(--transition);
 }
 
 .experience__container > div:hover {
-  background-color: var(--color-bg);
-  border-color: var(--color-primary-variant);
+  background-color: var(--color-primary-variant);
+  border-color: var(--color-primary);
   cursor: default;
 }
 

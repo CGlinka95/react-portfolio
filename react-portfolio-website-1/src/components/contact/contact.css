@@ -12,17 +12,17 @@
 }
 
 .contact__option {
-  background: var(--color-bg-variant);
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
   padding: 1.2rem;
   border-radius: 1.2rem;
   text-align: center;
-  border: 1px solid transparent;
   transition: var(--transition);
 }
 
 .contact__option:hover {
-  background-color: var(--color-bg);
-  border-color: var(--color-primary-variant);
+  background-color: var(--color-primary-variant);
+  border-color: var(--color-primary);
 }
 
 .contact__option-icon {
@@ -34,6 +34,10 @@
   margin-top: 0.7rem;
   display: inline-block;
   font-size: 0.8rem;
+}
+
+.contact__option a:hover {
+  color: var(--color-white);
 }
 
 /* ---------------------- FORM --------------------- */
