@@ -34,7 +34,8 @@ html {
 }
 
 .parallax {
-  background-image: url(../src/assets/bg-texture.jpg);
+  background-image: linear-gradient(rgba(60, 60, 60, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../src/assets/bg-texture.jpg);
   min-height: 100vh;
   background-attachment: fixed;
   background-position: center;
