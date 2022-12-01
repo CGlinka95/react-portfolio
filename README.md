@@ -17,6 +17,6 @@ Run 'npm install' in the root of the folder to install all dependancies and then
 
 ## Known Bugs
 
-### IPhone
+### Safari
 
 - Background image not rendering properly
