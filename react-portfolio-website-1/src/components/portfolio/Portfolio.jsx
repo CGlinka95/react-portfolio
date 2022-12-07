@@ -30,6 +30,7 @@ const Portfolio = () => {
           </div>
           <h3>Sudoku Solver API Project</h3>
           <a href="https://github.com/CGlinka95/CGs-Sudoku-Solver" className='btn btn-primary' target="_blank" rel='noreferrer'>GitHub</a>
+          <a href="https://www.youtube.com/watch?v=t9TsO9BWpsI&ab_channel=CGlinkaDesigns" className='btn btn-secondary' target="_blank" rel='noreferrer'>Demo</a>
         </article>
       </div>
     </section>

@@ -122,6 +122,10 @@ a:hover {
   color: var(--color-bg);
 }
 
+.btn-secondary {
+  margin-left: 1rem;
+}
+
 img {
   display: block;
   width: 100%;
