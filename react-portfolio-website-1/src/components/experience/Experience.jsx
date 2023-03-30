@@ -70,15 +70,15 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>SQL/T-SQL/MySQL</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>SQL/T-SQL</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>C#</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
@@ -99,7 +99,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Java</h4>
-                <small className="text-light">Basic</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
