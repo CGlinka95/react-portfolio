@@ -27,30 +27,27 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Employment</h5>
-              <small>Director of Education at Code Ninjas</small>
+              <small>Summer Camp Director & Supervisor</small>
               <br />
-              <small>October 2021 - Present</small>
+              <small>October 2021 - September 2023</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>11+ Completed Projects</small>
+              <small>12+ Completed Projects</small>
             </article>
           </div>
           <p>
-            An aspiring and enthusiastic Software Developer with 3 years of
-            technical education in NAIT’s DMIT program. He is a Concordia
-            University of Edmonton BA graduate with a major in English and takes
-            great pride in his ability to write. However, he decided that IT is
-            where he belongs and flourishes due to a life-long passion for
-            technology and learning. Due to his work at Code Ninjas, he has
-            recently discovered a love of teaching kids how to code and
-            volunteering for events that host local groups such as Big Brothers
-            Big Sisters, Autism Edmonton, and Ukrainian Refugee fundraisers.
-            Through Code Ninjas he also runs a weekly teen-night where they can
-            have a space to interact and make friends with likeminded
-            individuals of their own age and explore their interests and learn
-            new things.
+            A motivated Software Developer with three years of technical
+            education from NAIT's DMIT program, complemented by a BA in English
+            from Concordia University of Edmonton. With a lifelong passion for
+            technology and a strong desire for continuous learning, this
+            individual transitioned to the IT field. Their role at Code Ninjas
+            sparked a newfound love for teaching kids coding and active
+            involvement in community events like Big Brothers Big Sisters,
+            Autism Edmonton, and Ukrainian Refugee fundraisers. They also lead a
+            weekly teen-night at Code Ninjas, providing a space for like-minded
+            individuals to connect, explore interests, and learn together.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
