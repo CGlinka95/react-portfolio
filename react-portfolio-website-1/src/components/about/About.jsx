@@ -38,16 +38,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            A motivated Software Developer with three years of technical
-            education from NAIT's DMIT program, complemented by a BA in English
-            from Concordia University of Edmonton. With a lifelong passion for
-            technology and a strong desire for continuous learning, this
-            individual transitioned to the IT field. Their role at Code Ninjas
-            sparked a newfound love for teaching kids coding and active
-            involvement in community events like Big Brothers Big Sisters,
-            Autism Edmonton, and Ukrainian Refugee fundraisers. They also lead a
-            weekly teen-night at Code Ninjas, providing a space for like-minded
-            individuals to connect, explore interests, and learn together.
+            A motivated Software Developer with a lifelong passion for
+            technology and a strong desire for continuous learning. I started my
+            career in the retail and services industry and now after three years
+            of technical education from NAIT's Digital Media and IT program, I
+            am applying my skills where I can, to make a difference. My recent
+            role at Code Ninjas sparked a newfound love for teaching coding to
+            kids and this led me to start and head a weekly teen night providing
+            a space for like-minded individuals to connect, explore interests,
+            and learn together.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
